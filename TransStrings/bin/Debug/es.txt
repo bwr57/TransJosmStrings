@@ -1,4 +1,4 @@
-Personalizar parada
+﻿Personalizar parada
 Personalizar parada bajo el estándar público de tránsito OSM v2
 Parar personalización
 Asignar etiqueta al área de detención

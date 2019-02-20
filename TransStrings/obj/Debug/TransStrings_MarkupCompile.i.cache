@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-E:\rodsoft\Java\Trans\TransStrings\TransStrings\obj\Debug\
-TransStrings
+C:\Rodsoft\TransStrings\TransJosmStrings\TransStrings\obj\Debug\
+RodSoft.TranslationJosmStrings
 none
 false
 DEBUG;TRACE
-E:\rodsoft\Java\Trans\TransStrings\TransStrings\App.xaml
-11151548125
+C:\Rodsoft\TransStrings\TransJosmStrings\TransStrings\App.xaml
+2164380398
 
-91655179549
+161041390345
 12-1401562060
-MainWindow.xaml;
+MainWindow.xaml;Settings\SetupSettingsWindow.xaml;
 
 False
 

@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace TransStrings
+namespace RodSoft.TranslationJosmStrings
 {
     /// <summary>
     /// Логика взаимодействия для App.xaml
